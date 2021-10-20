@@ -26,7 +26,8 @@ npx create-react-app 'react_project_x_v2'
 
 ### Note:
 
-The command above comes up with a new folder created from scratch called `react_project_x_v2` along with the React files including their dependencies. This folder must be specified between quotes and only have lower cases, but considering you have already a specific folder and this folder is void, open it and call `Git Bash Here`, or go through the folder's path with `cd` commands.
+The above command comes up with a new folder created from scratch called `react_project_x_v2` along with the React files including their dependencies.\
+This folder must be explicit between quotes, and lower case is mandatory. But, considering you previously have a specific, void folder, open this folder and choose `Git Bash Here`, or navigate by the folder path with `cd` commands.
 
 `Ex.1:` The command `mkdir` means make directory. After `ENTER` on this command, you'll see it being created simultaneously.
 
